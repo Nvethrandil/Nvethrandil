@@ -1,6 +1,6 @@
  Hi, I’m @Nvethrandil
 - I'm a 5th year Space Engineer student.
-- I'm currently learningn Java, Python, C and ROS.
+- I'm currently learning Java, Python, C and ROS.
 - Most of my repos are assignments and are therefore private
 
 <!---
