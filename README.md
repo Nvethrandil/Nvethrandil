@@ -1,6 +1,7 @@
  Hi, I’m @Nvethrandil
-- I'm a 5th year Space Engineer student.
-- I'm currently learning Java, Python, C and ROS.
+- I'm a 5th year Space Engineer student
+- I'm currently learning Java, Python, C and ROS
+- I like bananas
 
 <!---
 Nvethrandil/Nvethrandil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
